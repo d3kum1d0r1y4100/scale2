@@ -1,4 +1,4 @@
-module github.com/hakluke/hakscale
+github.com/d3kum1d0r1y4100/scale
 
 go 1.15
 
