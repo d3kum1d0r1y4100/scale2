@@ -1,4 +1,4 @@
-modeule github.com/d3kum1d0r1y4100/scale2
+module github.com/d3kum1d0r1y4100/scale2
 
 go 1.15
 
